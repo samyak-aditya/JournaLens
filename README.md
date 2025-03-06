@@ -1,1 +1,1 @@
-# Journal-Application-SpringBoot
+# JournalLens
